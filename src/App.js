@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React 12334
+          Learn React text changed.
         </a>
       </header>
     </div>
